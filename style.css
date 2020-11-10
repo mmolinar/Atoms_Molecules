@@ -55,6 +55,12 @@
    list-style-type: none;
  }
 
+.FirstImge {
+  background-image: url("./img3.jpg");
+  background-size: cover;
+  height: 23rem;
+}
+
  #PrimaryBanner {
   background-image: url("./img2.jpg");
   background-size: cover;
